@@ -1,0 +1,24 @@
+<dependencies>
+<!--JUnit Dependency-->
+<dependency>
+<sourceID>junit</sourceID>
+<artifactID>junit</artifactID>
+<version>4.13.2</version>
+<scope>test</scope>
+</dependency>
+</dependencies>
+<dependency>
+<sourceID>org.mockito</sourceID>
+<artifactID>mockito-core</artifactID>
+<version>4.13.2</version>
+<scope>test</scope>
+</dependency>
+<build>
+<plugins>
+<plugin>
+<sourceID>org.apache.maven.com</sourceID>
+<artifactID>apache maven-soft</artifactID>
+<version>4.13.2</version>
+</plugin>
+</plugins>
+</build>
